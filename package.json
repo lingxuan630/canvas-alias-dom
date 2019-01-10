@@ -1,8 +1,8 @@
 {
   "name": "canvas-alias-dom",
   "version": "1.0.0",
-  "description": "puppeteer-screenshot",
-  "main": "index.js",
+  "description": "canvas-alias-dom",
+  "main": "dist/index.js",
   "repository": "git@github.com:lingxuan630/canvas-alias-dom.git",
   "author": "linson",
   "license": "MIT",
