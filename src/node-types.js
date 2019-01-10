@@ -1,0 +1,27 @@
+const NodeTypes = [
+  'Stage',
+  'Layer',
+  'FastLayer',
+  'Group',
+  'Label',
+  'Rect',
+  'Circle',
+  'Ellipse',
+  'Wedge',
+  'Line',
+  'Sprite',
+  'Image',
+  'Text',
+  'TextPath',
+  'Star',
+  'Ring',
+  'Arc',
+  'Tag',
+  'Path',
+  'RegularPolygon',
+  'Arrow',
+  'Shape',
+  'Transformer',
+];
+
+export default NodeTypes;
