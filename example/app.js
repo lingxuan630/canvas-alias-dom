@@ -5,6 +5,8 @@ const appRoot = document.querySelector('#app');
 const layer = createElement('Layer');
 
 const stage = createElement('Stage');
+
+console.log(stage);
 stage.setAttribute('width', 800);
 stage.setAttribute('height', 800);
 const container = stage.getContainer();
